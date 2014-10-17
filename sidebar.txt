@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[scs:home|Door43 (scs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-scs|d43-scs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-scs/archive/master.zip|d43-scs.zip]]
+
+**Recent Changes**
+{{changes>ns = scs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/scs|Ethnologue data]]
+
